@@ -7,6 +7,8 @@ with open("book1.csv", encoding = "utf-8") as source:
        
         print(sum(line)/len(line))
         
+        print("Just toying with the script...")
+        
 
     
     

@@ -21,7 +21,7 @@ def prepocitaj():
     yka = []
     for i in range(skala): 
        xka.append(x)
-       y = 7*x**7 - 21*x**5 + x**4 - 12*x +8
+       y = 7*x**7 - 21*x**5 + x**4 - 12*x + 8
        yka.append(y)
        x += inkrement
 

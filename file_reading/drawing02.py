@@ -1,6 +1,6 @@
 points = []
 
-with open(r"Z:\IV. FG\Point Files\points0.txt") as source_file:
+with open(r"points0.txt") as source_file:
     for line in source_file:
         coords = line.split()
         x = int(coords[0])
